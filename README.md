@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Akshaysinha07/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshaysinha07/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaysinha07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Akshaysinha07/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akshaysinha07/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/Akshaysinha07/Leetcode/tree/master/2469-convert-the-temperature) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshaysinha07/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaysinha07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Number Theory
 |  |
