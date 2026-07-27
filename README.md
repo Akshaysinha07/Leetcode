@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Akshaysinha07/Leetcode/tree/master/0016-3sum-closest) |
 | [1260-shift-2d-grid](https://github.com/Akshaysinha07/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Akshaysinha07/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Akshaysinha07/Leetcode/tree/master/0016-3sum-closest) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Graph Theory
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
