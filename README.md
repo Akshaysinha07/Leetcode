@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Akshaysinha07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/Akshaysinha07/Leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Akshaysinha07/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshaysinha07/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akshaysinha07/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1854-maximum-population-year](https://github.com/Akshaysinha07/Leetcode/tree/master/1854-maximum-population-year) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/Akshaysinha07/Leetcode/tree/master/1854-maximum-population-year) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
