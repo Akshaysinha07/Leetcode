@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Akshaysinha07/Leetcode/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaysinha07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshaysinha07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Akshaysinha07/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1260-shift-2d-grid](https://github.com/Akshaysinha07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaysinha07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Akshaysinha07/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/Akshaysinha07/Leetcode/tree/master/1854-maximum-population-year) |
 ## Heap (Priority Queue)
@@ -104,8 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaysinha07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Akshaysinha07/Leetcode/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/Akshaysinha07/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaysinha07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Akshaysinha07/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
