@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akshaysinha07/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysinha07/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akshaysinha07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3174-clear-digits](https://github.com/Akshaysinha07/Leetcode/tree/master/3174-clear-digits) |
 | [3894-traffic-signal-color](https://github.com/Akshaysinha07/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Akshaysinha07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Akshaysinha07/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3174-clear-digits](https://github.com/Akshaysinha07/Leetcode/tree/master/3174-clear-digits) |
 | [3894-traffic-signal-color](https://github.com/Akshaysinha07/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Akshaysinha07/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akshaysinha07/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysinha07/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Akshaysinha07/Leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
