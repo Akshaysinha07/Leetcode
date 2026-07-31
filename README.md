@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Akshaysinha07/Leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Akshaysinha07/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akshaysinha07/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akshaysinha07/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysinha07/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Akshaysinha07/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akshaysinha07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akshaysinha07/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akshaysinha07/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akshaysinha07/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akshaysinha07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akshaysinha07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
