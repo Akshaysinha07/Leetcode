@@ -1,7 +1,7 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if(numRows ==1 || numRows >= s.size()) return s;
+        if(numRows ==1||numRows >= s.size()) return s;
         vector<string> ans(numRows);
         int curr = 0;
         bool down = true;
