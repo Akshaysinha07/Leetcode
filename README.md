@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akshaysinha07/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysinha07/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akshaysinha07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akshaysinha07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3174-clear-digits](https://github.com/Akshaysinha07/Leetcode/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Akshaysinha07/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/Akshaysinha07/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akshaysinha07/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akshaysinha07/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akshaysinha07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akshaysinha07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Akshaysinha07/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1854-maximum-population-year](https://github.com/Akshaysinha07/Leetcode/tree/master/1854-maximum-population-year) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akshaysinha07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akshaysinha07/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshaysinha07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akshaysinha07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshaysinha07/Leetcode/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Akshaysinha07/Leetcode/tree/master/0567-permutation-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akshaysinha07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
