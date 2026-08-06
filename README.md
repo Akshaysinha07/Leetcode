@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshaysinha07/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaysinha07/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3894-traffic-signal-color](https://github.com/Akshaysinha07/Leetcode/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/Akshaysinha07/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akshaysinha07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Akshaysinha07/Leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Akshaysinha07/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/Akshaysinha07/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
