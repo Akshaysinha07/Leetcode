@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Akshaysinha07/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Akshaysinha07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Akshaysinha07/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Akshaysinha07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaysinha07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Akshaysinha07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Akshaysinha07/Leetcode/tree/master/0709-to-lower-case) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Akshaysinha07/Leetcode/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/Akshaysinha07/Leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Akshaysinha07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Akshaysinha07/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2000-reverse-prefix-of-word](https://github.com/Akshaysinha07/Leetcode/tree/master/2000-reverse-prefix-of-word) |
