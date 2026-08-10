@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Akshaysinha07/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Akshaysinha07/Leetcode/tree/master/0049-group-anagrams) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaysinha07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaysinha07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Akshaysinha07/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Akshaysinha07/Leetcode/tree/master/0486-predict-the-winner) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaysinha07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaysinha07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Akshaysinha07/Leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Akshaysinha07/Leetcode/tree/master/0713-subarray-product-less-than-k) |
