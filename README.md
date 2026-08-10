@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Akshaysinha07/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Akshaysinha07/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Akshaysinha07/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshaysinha07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaysinha07/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Akshaysinha07/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaysinha07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshaysinha07/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Akshaysinha07/Leetcode/tree/master/0268-missing-number) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshaysinha07/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Akshaysinha07/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
