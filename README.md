@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Akshaysinha07/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Akshaysinha07/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/Akshaysinha07/Leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Akshaysinha07/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshaysinha07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Akshaysinha07/Leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Akshaysinha07/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Akshaysinha07/Leetcode/tree/master/1406-stone-game-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Akshaysinha07/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
